@@ -1,0 +1,21 @@
+.sidebar {
+  width: 220px;
+  background-color: #1a202c;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 100vh;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.link:hover {
+  background-color: #2d3748;
+}
